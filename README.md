@@ -1,0 +1,4 @@
+-Hi, I’m @pschonffeldt
+-I’m interested in drones, autonomus vehicles, startups, marketing and filmmaking
+-I’m currently learning python
+-How to reach me ... loading...
