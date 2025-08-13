@@ -41,11 +41,4 @@ Explore my work and mission at [pschonffeldt.dev](https://pschonffeldt.dev).
 
 ---
 
-### 📊 GitHub Activity
-
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pschonffeldt&show_icons=true&theme=radical&hide_rank=true&hide=prs,issues)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pschonffeldt&theme=radical&hide_border=_)
-
----
-
 💡 *Let’s connect and create impactful digital experiences together!*
