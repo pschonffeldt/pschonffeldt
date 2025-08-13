@@ -41,11 +41,10 @@ Explore my work and mission at [pschonffeldt.dev](https://pschonffeldt.dev).
 
 ---
 
-### 🏆 GitHub Stats & Trophies
+### 📊 GitHub Activity
 
-| Stats | Trophies |
-|-------|----------|
-| ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pschonffeldt&show_icons=true&theme=radical) | [![trophy](https://github-profile-trophy.vercel.app/?username=pschonffeldt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) |
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pschonffeldt&show_icons=true&theme=radical&hide_rank=true&hide=prs,issues)  
+![GitHub Streak](https://streak-stats.demolab.com?user=pschonffeldt&theme=radical&hide_border=true)
 
 ---
 
