@@ -1,6 +1,6 @@
 # Hi there 👋, I’m Pablo Schönffeldt
 
-**Frontend Developer** • Digital Marketing Strategist • Multicultural Leader
+**Fullstack Developer**
 
 I combine strong frontend development skills with over a decade of experience in marketing, strategy, and automation — delivering impactful solutions across multiple industries and markets.
 
